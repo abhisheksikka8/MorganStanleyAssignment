@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "message.pattern.type1",
+    "type": "java.lang.String",
+    "description": "A description for 'message.pattern.type1'"
+  },
+  {
+    "name": "message.pattern.type2",
+    "type": "java.lang.String",
+    "description": "A description for 'message.pattern.type2'"
+  },
+  {
+    "name": "message.pattern.type3",
+    "type": "java.lang.String",
+    "description": "A description for 'message.pattern.type3'"
+  }
+]}

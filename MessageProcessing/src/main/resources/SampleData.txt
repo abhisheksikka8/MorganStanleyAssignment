@@ -1,0 +1,10 @@
+apple at 10p
+10 sales of apples at 10p each
+add 20p to each sale of apples you have recorded
+apple at 30p
+20 sales of apples at 10p each
+add 20p to each sale of apples you have recorded
+apple at 40p
+pear at 10p
+10 sales of pear at 10p each
+add 20p to each sale of pear you have recorded 
